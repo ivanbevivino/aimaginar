@@ -16142,7 +16142,7 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
   background: none;
 }
 .aqua-filter:after {
-  background: rgba(101, 47, 142, 0.64);
+  background: rgba(125, 190, 184, 0.88);
   background: linear-gradient(45deg, rgba(125, 190, 184, 0.88) 0%, rgba(125, 190, 184, 0.45) 100%);
   background: -moz-linear-gradient(135deg, rgba(125, 190, 184, 0.88) 0%, rgba(125, 190, 184, 0.45) 100%);
   background: -webkit-linear-gradient(135deg, rgba(125, 190, 184, 0.88) 0%, rgba(125, 190, 184, 0.45) 100%);
